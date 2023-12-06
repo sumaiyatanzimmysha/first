@@ -1,0 +1,177 @@
+
+.main{
+    font-family: 'Bree Serif', serif;
+    margin-left:200px;
+     text-align: justify;
+ }
+.per{
+    width: 20%;
+     
+     
+
+}
+.heading-1{
+      color: crimson;
+
+}
+.f-1
+{
+    display: flex;
+    padding-right: 150px;
+    
+}
+
+.para-1{
+    width: 30%;
+    text-align: justify;
+    margin-left: 200px;
+}
+.b-1
+{
+    color:white;
+     background-color: orangered;
+    margin-left: 200px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 25px;
+     
+}
+.small-1{
+   margin-left: 200px; 
+}
+#heading-2
+{
+    font-family: 'Bree Serif', serif;
+      text-align: center;
+}
+.year{
+     color: crimson;
+}
+.flex{
+    display: flex;
+     margin: 2px;
+     margin-left: 10%;
+     height: 220px;
+
+     
+}
+
+img{
+    padding: 10px;
+    padding-left: 55px;
+    padding-right: 40px;
+    padding-top: 15px;
+     border-radius: 50px;
+     
+
+}
+.i-1{
+    margin-right: 15px;
+}
+ .i-2{
+    margin-right: 15px;
+ }
+ .i-3{
+    margin-right: 15px;
+ }
+.p-2{
+    width: 20%;
+   
+}
+.heading-3{
+    font-family: 'M PLUS 1p', sans-serif;
+
+}
+.para-2
+{
+     text-align: justify;
+     
+     padding-right: 300px;
+}
+.span-1{
+    color: crimson;
+}
+.b-2{
+    color: white;
+    background-color: orangered;
+    margin-left: 20px;
+    margin-right:20px ;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 25px;
+}
+.f-3{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 50px;
+    
+}
+.heading-4{
+     
+    font-family: 'M PLUS 1p', sans-serif;
+
+}
+.p-3{
+    width: 20%;
+    margin-left: 100px;
+      
+}
+.main-2{
+    margin-left: 200px;
+     
+}
+.span-3
+{
+     color: crimson;
+}
+.heading-5{
+    font-family: 'M PLUS 1p', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+  
+}
+.f-2{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.heading-6{
+    font-family: 'M PLUS 1p', sans-serif;
+  
+}
+.span-4{
+    color: crimson; 
+}
+.para-4{
+    text-align: justify;
+     
+    padding-right: 300px;
+}
+.f-4{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.p-2{
+    padding: 20px;
+     
+}
+.last{
+    color: white;
+    font-family: cursive;
+    text-align: center;
+ }
+ .final{
+     font-family: Arial, Helvetica, sans-serif;
+     color: cornflowerblue;
+ }
+.my-footer{
+     background-color: black;
+     padding: 15px;
+   
+ }
+ 
